@@ -1,0 +1,46 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto": "Alertas"
+        },
+        {
+            "ruta" : "avatar",
+            "icon" : "accessibility",
+            "texto": "Avatars"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "folder_open",
+            "texto": "Cards - Tarjetas"
+        },
+        {
+            "ruta" : "animatedContainer",
+            "icon" : "donut_large",
+            "texto": "Animated Container"
+        },
+        {
+            "ruta" : "faces",
+            "icon" : "face",
+            "texto": "Facebook" 
+        },
+        {
+            "ruta" : "wasa",
+            "icon" : "contact_phone",
+            "texto": "WhatsApp" 
+        },
+        {
+            "ruta" : "slider",
+            "icon" : "tune",
+            "texto": "slider chexk" 
+        },
+        {
+            "ruta" : "list",
+            "icon" : "list",
+            "texto": "listas y scroll" 
+        }
+       
+    ]
+}
